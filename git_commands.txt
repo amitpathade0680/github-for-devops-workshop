@@ -71,9 +71,3 @@ git status testing.py
    79  history
 
 add a new line into this file
-keep adding the files
-I am keep adding new files
-Here is my new file
-myfile
-new file
-my my my file
