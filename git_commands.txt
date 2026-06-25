@@ -1,0 +1,71 @@
+git init
+git status
+git add testing.py
+git status
+git rm --cached testing.py
+git status
+git add testing.py
+git status
+git commit "my first file" testing.py
+git commit -m "my first file" testing.py
+git status
+del testing.py
+dir del testing.py
+rm testing.py
+git status
+git restore testing.py
+git status testing.py
+26  git status
+   27  del testing.py
+   28  dir del testing.py
+   29  rm testing.py
+   30  dir
+   31  git status
+   32  git restore testing.py
+   33  dir
+   34  git status testing.py
+   35  history
+   36  cls
+   37  clear
+   38  git status
+   39  git add git_commands.txt
+   40  git commit -m "git_commands" git_commands.txt
+   41  git log
+   42  git status
+   43  dir
+   44  cls
+   45  clear
+   46  git branch
+   47  git status
+   48  dir
+   49  clear
+
+   51  git remote -v
+
+   53  git remote -v
+   54  git push origin master
+   55  mkdir abc
+   56  cd abc
+   57  dir
+   58  pwd
+   59  dir
+   60  dir
+   61  git add myfile.py
+   62  dir
+   63  git commit abc
+   64  git commit myfile.py
+   65  cd abc
+   66  pwd
+   67  dir
+   68  git add myfile.py 
+   69  git commit myfile.py 
+   70  git commit -m "myfile" myfile.py
+   71  cd ..
+   72  git add abc
+   73  git commit -m "myfirst folder" abc
+   74  git add abc
+   75  git commit -m "added folder"
+   76  git push orgin master
+   77  git remote -v
+   78  git push origin master
+   79  history
